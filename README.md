@@ -9,7 +9,7 @@ Fork my repo
 Make your own local copy
 Checkout a feature branch
 Make a .txt file and tell me a little about yourself.
-Or you can make a .md file if you are comfortable with Markdown. Get creative! (or weird) :alien:
+Or you can make a .md file if you are comfortable with Markdown. Get creative! (or weird) :alien:  
 Make a PR
 
 The steps above are purposely lacking. Please reference the Toolkit mentioned above if you have any questions.
